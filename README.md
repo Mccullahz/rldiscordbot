@@ -1,9 +1,19 @@
 # Rocket League Discord Bot
-- The purpose of this project is quite simple, but should do a good job at testing the waters on something that I've wanted to do for some time now:
-Creating discord bots...
 
-### Features
-The key features of this bot are to integrate automatic parsing of the official Rocket League sites to check for updates on a few different things... We want to check:
-    - 1. RLCS updates, IE who plays who, when, and where to watch it. Potentially finding scores of games?
-    -2. RL patch notes, what the patches include and potentially a deep dive into the notes...
-    -3. Potentially adding a daily or weekly update on an individuals MMR based off of rltracker data.
+Welcome to the Rocket League Discord Bot project! 🚀🤖
+
+## Overview
+
+This project aims to create a powerful Discord bot tailored for Rocket League enthusiasts. Dive into the world of automated updates and seamless integration with official Rocket League sites.
+
+## Key Features
+
+Explore the following key features of our bot:
+
+1. **RLCS Updates**: Stay informed on match schedules, teams, and where to catch the action live. Get real-time scores and game highlights.
+
+2. **RL Patch Notes**: Delve into the latest patch details, uncovering what changes are in store for the Rocket League community. Take a deep dive into the patch notes for a comprehensive understanding.
+
+3. **MMR Updates**: Receive daily or weekly updates on individual MMR based on data from rltracker. Keep track of your progress and stay ahead of the competition.
+
+Game On :) 🎮⚽️
