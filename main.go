@@ -6,10 +6,10 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-const RLSite = map[string]{
-	OfficialSite: "https://www.rocketleague.com/en",
-	RLCSUpdates:  "https://en.wikipedia.org/wiki/Rocket_League_Championship_Series#Seasons", // need to find proper link for updates here but we can work with this up until web scraping
-}
+const (
+	OfficialSite = "https://www.rocketleague.com/en"
+	RLCSUpdates  = "https://en.wikipedia.org/wiki/Rocket_League_Championship_Series#Seasons" // need to find proper link for updates here but we can work with this up until web scraping
+)
 
 func main() {
 	// discord session && bot token
